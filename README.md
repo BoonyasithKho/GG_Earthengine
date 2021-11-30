@@ -1,4 +1,4 @@
-# GG_Earthengine
+# Google Earth Engine
 
 ## Python Installation - Conda Install
 ### 1. Install Anaconda
